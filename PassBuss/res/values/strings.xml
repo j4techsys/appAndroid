@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name"> P a s s B u s s </string>
-    <string name="teste">teste</string>
-    <string name="action_settings">Settings</string>
-    <string name="salvar">Gravar</string>
+	<string name="app_name"> P a s s B u s s </string>
+	<string name="action_settings">Settings</string>
+	<string name="teste">teste</string>
+	<string name="calcular">Calcular</string>
+	<string name="cadastrar">Cadastrar</string>
+	<string name="consultar">Consultar</string>
+
 </resources>
