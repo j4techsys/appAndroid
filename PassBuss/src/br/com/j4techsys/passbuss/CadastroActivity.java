@@ -3,23 +3,17 @@ package br.com.j4techsys.passbuss;
 import android.R;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
-import android.widget.Button;
+import android.widget.TextView;
 
-public class PrincipalActivity extends ActionBarActivity {
-	
-	Button btCadastro;
+public class CadastroActivity extends ActionBarActivity {
 	
 	@Override
 	public void onCreate(Bundle savedInstanceState){
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.principal);
-		
-	}
-	
-	public void layoutCadastro(){
 		setContentView(R.layout.cadastro);
 		
-		btCadastro = (Button) findViewById(R.id.btCadastro);
+		
+		
 	}
-	
+
 }
