@@ -2,10 +2,9 @@
 <resources>
 
 	<string name="app_name"> P a s s B u s s </string>
-	<string name="action_settings">Settings</string>
-	<string name="teste">teste</string>
 	<string name="calcular">Calcular</string>
 	<string name="cadastrar">Cadastrar</string>
 	<string name="consultar">Consultar</string>
+	<string name="app_name_cadastro"> C a d a s t r a r </string>
 
 </resources>
